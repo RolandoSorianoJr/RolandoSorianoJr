@@ -1,16 +1,24 @@
-### Hi there 👋
+# About Me
 
-<!--
-**RolandoSorianoJr/RolandoSorianoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rolando D. Soriano Jr., with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I pursued the BS Information Technology program.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BS Information Technology**
+  New Era University
+  2020-Present
+
+## Certification
+
+- **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/66e7b38536b24a1b82eefa147d31704c)**
+
+## Skill Sets
+
+- **Programming:** Java, JavaScript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Contact Me
+
+- **LinkedIn:** [linkedin.com/in/rolando-soriano-jr-154234308](https://www.linkedin.com/in/rolando-soriano-jr-154234308)
+- **Email:** rolandosoriano377@gmail.com
